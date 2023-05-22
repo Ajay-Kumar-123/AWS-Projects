@@ -1,0 +1,4 @@
+This is a sample file created to demonstrate the use of editing a file using 'nano' command.
+
+
+This is a second line added to demonstrate transfer file from Ubuntu server to local machine.
